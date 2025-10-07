@@ -1,0 +1,5 @@
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+ollama>=0.1.6
+rich>=13.7.0
+aiofiles>=23.2.1
